@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/mTXmUj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin post installation as a administrator I began to define the roles for agaents per department. By giving people who have "Supreme Admin" roles permissions to create and delete tickets.
+To begin post installation as a administrator I began to define the roles for agaents per department. By giving people who have "Supreme Admin" roles permissions to create and delete tickets. This can be done by clicking Admin Panel -> Agents -> Roles. Since tickets are routed through different departments within a help desk there are many settings per department. To create a department for an assignment you can access it by clicking Admin Panel -> Agents -> Departments.
 </p>
 <br />
 
