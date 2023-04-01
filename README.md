@@ -43,7 +43,7 @@ To begin post installation as a administrator I began to define the roles for ag
 <img src="https://i.imgur.com/cqc1FNt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next step is creating teams as for instance the best technicians from each department to form a team to handle specific issues. Consisting of level 1 or level 2 for instance support agents.As a administrator I can assign each agent different departments and roles. 
+Next step is creating teams as for instance the best technicians from each department to form a team to handle specific issues. Consisting of level 1 or level 2 for instance support agents. As a administrator I can assign each agent different departments and roles. 
 </p>
 <br />
 
