@@ -51,6 +51,6 @@ Next step is creating teams as for instance the best technicians from each depar
 <img src="https://i.imgur.com/GNAXEMJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, Service Level Agreements can have a variety of meaning but for my administrative purpose I will try to keep it simple. To configure a service level agreement I went to Admin Panel -> Manage -> SLA.
+Finally, Service Level Agreements can have a variety of meaning but for my administrative purpose I will try to keep it simple. To configure a service level agreement I went to Admin Panel -> Manage -> SLA. Ive created 3 SLA's Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours) each with their own level of importance. For schedule on SEV-A I chose 24/7 with a grace period of 1 hour meaning despite if its a sunday at 10 p.m. the ticket needs to be resolved by 11 p.m. As for instance with SEV-C a schedule of Monday-Friday with a 8 hour grace period meaning if a ticket arises at 2 p.m. Friday we have 3 hours on Friday then another 5 hours on Monday. 
 </p>
 <br />
