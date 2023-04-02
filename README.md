@@ -48,9 +48,9 @@ Next step is creating teams as for instance the best technicians from each depar
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GNAXEMJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, Service Level Agreements can have a variety of meaning but for my administrative purpose I will try to keep it simple.
+Finally, Service Level Agreements can have a variety of meaning but for my administrative purpose I will try to keep it simple. To configure a service level agreement I went to Admin Panel -> Manage -> SLA.
 </p>
 <br />
